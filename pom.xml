@@ -6,7 +6,7 @@
   
   <properties>
 		<spring.version>4.1.6.RELEASE</spring.version>
-		<camelspring.version>2.16.0</camelspring.version>
+		<camelspring.version>2.24.2</camelspring.version>
 	</properties>
 
 	<dependencies>
